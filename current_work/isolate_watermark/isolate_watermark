@@ -1,0 +1,5 @@
+#!/usr/bin/bash
+
+SAMPLES=data/samples
+
+./isolate_watermark.py $SAMPLES
